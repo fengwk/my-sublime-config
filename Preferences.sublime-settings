@@ -3,14 +3,16 @@
 	[
 		"Vintage",
 	],
-	"font_size": 11,
-	"theme": "Material-Theme.sublime-theme",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	/*"font_size": 18,*/
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+
+	"font_size": 12,
 
 	// 缩进配置
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-
+	
 	// 超长换行
 	"word_wrap": true,
 
